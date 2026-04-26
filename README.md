@@ -39,3 +39,47 @@ This is a full stack role-based web application built using:
 ## 🛠️ How to Run Project
 
 ### Backend
+cd backend
+npm install
+node server.js
+
+
+
+---
+
+### Frontend
+
+cd frontend
+npm install
+npm start
+
+
+---
+
+## 🔐 Demo Credentials
+
+### Admin
+- Email: admin@gmail.com
+- Password: 123456
+
+### Client
+- Email: client@gmail.com
+- Password: 123456
+
+### User
+- Email: user@gmail.com
+- Password: 123456
+
+---
+
+## 📦 Tech Stack
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- JWT
+
+---
+
+## 👨‍💻 Developer
+Created for Full Stack Project Submission
